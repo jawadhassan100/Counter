@@ -5,4 +5,4 @@
 
 ## Images
 
-<img src="https://github.com/jawadhassan100/Counter/assets/123384066/cb6aa44d-7d59-4e05-86db-998eb8017c50"/>
+<img src="https://github.com/jawadhassan100/Counter/assets/123384066/cb6aa44d-7d59-4e05-86db-998eb8017c50" width=50%/>
